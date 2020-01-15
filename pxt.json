@@ -1,0 +1,19 @@
+{
+    "name": "pxt-bts-sensor",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:2c9bc69a-a488-4ade-98ca-143e81011d7c"
+}
