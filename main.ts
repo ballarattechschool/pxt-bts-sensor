@@ -1,5 +1,6 @@
 /**
 BTS Sensor Tech extension
+Maintainers: Damien and Stephen
 */
 //% weight=70 icon="\uf1ec" color=#EC7505
 namespace BTS {
